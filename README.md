@@ -15,3 +15,5 @@ Installation instructions:
     *Node.js and some express js modules are needed 
 
 6.Execute the command "npm run start" to start the application locally.
+
+7.Open your browser of choice and type the URL: localhost:3030 to open the app.
