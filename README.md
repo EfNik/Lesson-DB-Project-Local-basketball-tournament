@@ -1,5 +1,5 @@
 # Lesson-DB-Project-Local-basketball-tournament
-All the code that was developed for the semester project of the data bases lesson.
+A project that was developed for the semester data bases course.
 
 Installation instructions:
 
